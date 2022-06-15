@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-foxdonut",
+  "version": "1.0.0",
+  "description": "Shareable eslint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxdonut/eslint-config-foxdonut.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "foxdonut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxdonut/eslint-config-foxdonut/issues"
+  },
+  "homepage": "https://github.com/foxdonut/eslint-config-foxdonut#readme",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0"
+  }
+}
