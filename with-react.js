@@ -10,5 +10,10 @@ module.exports = {
     'react/display-name': ['off'],
     'react/jsx-no-undef': ['warn', { allowGlobals: true }],
     'react/prop-types': ['off']
+  },
+  settings: {
+    react: {
+      pragma: 'React.createElement'
+    }
   }
 };
