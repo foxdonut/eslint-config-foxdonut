@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-foxdonut",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Shareable eslint config",
   "main": "index.js",
   "repository": {
@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/foxdonut/eslint-config-foxdonut#readme",
   "peerDependencies": {
-    "eslint": ">= 8"
+    "eslint": ">= 9"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.28.0",
-    "@typescript-eslint/parser": "^5.28.0"
+    "@typescript-eslint/eslint-plugin": "^8.29.0",
+    "@typescript-eslint/parser": "^8.29.0"
   }
 }
